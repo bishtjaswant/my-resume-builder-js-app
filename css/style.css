@@ -1,0 +1,22 @@
+
+
+#cv-form{
+ }
+
+ #cv-form-template{
+     display: none;
+ }
+
+.myimg{
+    width: 180px;
+    border: 1px solid #f7aa37;
+    border-radius: 50%;
+}
+
+.cv-background{
+    border: 3px solid #F8B500;
+    background: #fceabb;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f8b500, #fceabb);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f8b500, #fceabb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        border-radius: 9px;
+}
